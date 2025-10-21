@@ -11,3 +11,5 @@ Este documento visa auxiliar os alunos na elaboração de portfólios acadêmico
 | Resumo em formato ABNT | [acesso](docs/resumo_abnt.md) |
 | Orientações para o desenvolvimento | [acesso](docs/orientacoes_desenvolvimento.md) |
 | Orientações para o modelo de portfolio | [acesso](docs/orientacoes_modelo_portfolio.md) |
+Modelos | [acesso](assets/modelos) |
+Documentos de base | [acesso](assets/base) |
