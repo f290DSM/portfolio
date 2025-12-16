@@ -59,13 +59,13 @@ Aqui estão as regras principais, de forma simplificada:
 Aqui é onde mais alunos se enrolam. O básico:
 
 #### Livros:
-SOBRENOME, Nome. Título em itálico. Edição. Cidade: Editora, ano.
+SOBRENOME, Nome. Título em negrito quando em portugues, quando em língua estreangeira negrito e itálico. Edição. Cidade: Editora, ano.
 
 #### Artigos:
-SOBRENOME, Nome. Título do artigo. Nome da Revista, cidade, v. X, n. X, p. xx-xx, ano.
+SOBRENOME, Nome. Título do artigo em negrito quando em portugues, quando em língua estreangeira negrito e itálico. Nome da Revista, cidade, v. X, n. X, p. xx-xx, ano.
 
 #### Sites:
-SOBRENOME, Nome (se tiver). Título da página. Disponível em: . Acesso em: dia mês abreviado. ano.
+SOBRENOME, Nome (se tiver). Título da página em negrito quando em portugus, quando em língua estreangeira negrito e itálico. Disponível em: . Acesso em: dia mês abreviado. ano.
 
 ### Como aplicar no Portfólio Acadêmico
 
